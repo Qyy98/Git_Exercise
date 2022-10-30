@@ -8,5 +8,6 @@
 public class Test {
     public Test() {
         // a
+        // b
     }
 }
